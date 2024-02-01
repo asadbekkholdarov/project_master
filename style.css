@@ -1,0 +1,20 @@
+* {
+  padding: 0;
+  margin: 0;
+}
+
+nav {
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  height: 80px;
+}
+
+ul {
+  list-style: none;
+  display: flex;
+}
+
+a {
+  padding: 10px;
+}
